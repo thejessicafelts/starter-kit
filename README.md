@@ -20,15 +20,15 @@ Use this blank project to kickstart your next website!
 
 Mobile-first optimized media queries allow for 11 break-points, and one additional query for screens smaller than the first breakpoint. Developers will not need to use _every_ breakpoint for _every_ project, but these have been provided to give the Developer a better understanding of popular screen sizes. _(The sizes have been determined with help from Chrome Developer Tools and general knowledge of popular Monitor Resolutions)_
 
-+ < 320px _(Mobile XS)_
-+ 320px _(Mobile S)_
-+ 375px _(Mobile M)_
-+ 425px _(Mobile L)_
-+ 768px _(Mobile XL / Tablet)_
-+ 1024px _(Tablet / Laptop / Desktop XS)_
-+ 1280px _(Desktop S)_
-+ 1366px _(Desktop M)_
-+ 1440px _(Desktop L)_
-+ 1920px _(Desktop XL)_
-+ 2560px _(4K Display)_
-+ 5120px _(5K Display)_
++ < 320px -- _Mobile XS_ 
++ 320px -- _Mobile S_ 
++ 375px -- _Mobile M_ 
++ 425px -- _Mobile L_ 
++ 768px -- _Mobile XL / Tablet_ 
++ 1024px -- _Tablet / Laptop / Desktop XS_ 
++ 1280px -- _Desktop S_ 
++ 1366px -- _Desktop M_ 
++ 1440px -- _Desktop L_ 
++ 1920px -- _Desktop XL_ 
++ 2560px -- _4K Display_ 
++ 5120px -- _5K Display_ 
