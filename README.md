@@ -18,7 +18,7 @@ Use this blank project to kickstart your next website!
 
 #### Media Queries:
 
-Mobile-first optimized media queries allow for 11 break-points, and one additional query for screens smaller than the first breakpoint. Developers will not need to use _every_ breakpoint for _every_ project, but these have been provided to give the Developer a better understanding of popular screen sizes. _(The sizes have been determined with help from Chrome Developer Tools and general knowledge of popular Monitor Resolutions)_
+Mobile-first optimized media queries allow for 9 break-points, and one additional query for screens smaller than the first breakpoint. Developers will not need to use _every_ breakpoint for _every_ project, but these have been provided to give the Developer a better understanding of popular screen sizes. _(The sizes have been determined with help from Chrome Developer Tools and general knowledge of popular Monitor Resolutions)_
 
 + < 320px -- _Mobile XS_ 
 + 320px -- _Mobile S_ 
