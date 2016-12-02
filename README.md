@@ -30,5 +30,3 @@ Mobile-first optimized media queries allow for 11 break-points, and one addition
 + 1366px -- _Desktop M_ 
 + 1440px -- _Desktop L_ 
 + 1920px -- _Desktop XL_ 
-+ 2560px -- _4K Display_ 
-+ 5120px -- _5K Display_ 
