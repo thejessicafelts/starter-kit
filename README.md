@@ -18,7 +18,7 @@ This Starter Kit now includes the option for a Desktop-First styling approach, a
 **main.css** file
 + global styles to make your life easier
 + main-container styling to get you started
-+ a mobile-first media query setup
++ either a mobile-first or desktop-first media query setup
 
 ### Media Queries:
 
@@ -26,7 +26,7 @@ This Starter Kit now includes the option for a Desktop-First styling approach, a
 
 Mobile-first optimized media queries allow for 9 breakpoints, and one additional query for screens smaller than the first breakpoint. Developers will not need to use _every_ breakpoint for _every_ project, but these have been provided to give the Developer a better understanding of popular screen sizes. _(The sizes have been determined with help from Chrome Developer Tools and general knowledge of popular Monitor Resolutions)_
 
-+ < 320px -- _Mobile XS_
++ 319px or less -- _Mobile XS_
 + 320px -- _Mobile S_
 + 375px -- _Mobile M_
 + 425px -- _Mobile L_
@@ -41,7 +41,7 @@ Mobile-first optimized media queries allow for 9 breakpoints, and one additional
 
 Desktop-first optimized media queries allow for 9 breakpoints, and an additional query for screens larger than the first breakpoint. Developers will not need to use _every_ breakpoint for _every_ project, but these have been provided to give the Developer a better understanding of popular screen sizes. _(The sizes have been determined with help from Chrome Developer Tools and general knowledge of popular Monitor Resolutions)_
 
-+ >= 1920px -- Desktop XL
++ 1920px or greater -- Desktop XL
 + 1919px -- Desktop L
 + 1439px -- Desktop M
 + 1365px -- Desktop S
@@ -56,9 +56,9 @@ Desktop-first optimized media queries allow for 9 breakpoints, and an additional
 
 If you are also planning to use the Bootstrap CSS framework, it supports the following breakpoints automatically:
 
-+ >= 1200px -- Large Devices, Desktops
-+ >= 992px -- Medium Devices, Desktops
-+ >= 768px -- Small Devices, Tablets
-+ < 767px -- Extra Small Devices, Phones
++ 1200px or greater -- Large Devices, Desktops
++ 992px or greater -- Medium Devices, Desktops
++ 768px or greater -- Small Devices, Tablets
++ 767px or less -- Extra Small Devices, Phones
 
 This Starter Kit can be used in combination with the Bootstrap framework breakpoints, for a more customized development experience.
